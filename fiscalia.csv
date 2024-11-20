@@ -1,0 +1,3 @@
+ID,Nombre,FechaNacimiento,Sexo,ValorUnitario,EstadoMora,Embargable
+1,Juan Perez,1985-05-20,M,30000.0,true,false
+3,Carlos Ruiz,2000-01-10,M,40000.0,true,true

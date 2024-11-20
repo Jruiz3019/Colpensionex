@@ -1,0 +1,5 @@
+ID,Nombre,FechaNacimiento,Sexo,ValorUnitario,EstadoMora,Embargable
+1,Juan Perez,1985-05-20,M,30000.00,true,false
+2,Maria Gomez,1990-07-15,F,25000.00,false,false
+3,Carlos Ruiz,2000-01-10,M,40000.00,true,true
+1001,Laura Gomez,1995-08-10,F,32000.0,false,false
